@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.7.5](https://github.com/googleapis/java-spanner-jdbc/compare/v2.7.4...v2.7.5) (2022-07-20)
+
+
+### Bug Fixes
+
+* enable longpaths support for windows test ([#1485](https://github.com/googleapis/java-spanner-jdbc/issues/1485)) ([#908](https://github.com/googleapis/java-spanner-jdbc/issues/908)) ([2e53ade](https://github.com/googleapis/java-spanner-jdbc/commit/2e53adef54a6336bbdafcdb2dd5ee2011c07dc6f))
+* pr to troubleshoot native image tests ([#912](https://github.com/googleapis/java-spanner-jdbc/issues/912)) ([4e78071](https://github.com/googleapis/java-spanner-jdbc/commit/4e78071c7451b194439b7b0b300488ec50c9cd1e))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-spanner-bom to v6.27.0 ([#898](https://github.com/googleapis/java-spanner-jdbc/issues/898)) ([c536dd6](https://github.com/googleapis/java-spanner-jdbc/commit/c536dd64f61f7a1f74d3c876156ffb2d99172ef1))
+
 ## [2.7.4](https://github.com/googleapis/java-spanner-jdbc/compare/v2.7.3...v2.7.4) (2022-06-30)
 
 
